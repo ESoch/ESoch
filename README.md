@@ -1,16 +1,13 @@
-## Hi there 👋
+# Selected projects
 
-<!--
-**ESoch/ESoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nematode Earth
 
-Here are some ideas to get you started:
+Sweep away the air, water, and rock to see the outline of Earth traced by soil nematodes. The WebGPU globe lets you explore published abundance estimates, field sampling locations, and the model’s uncertainty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore the globe](https://nematode.earth/) · [Source code](https://github.com/ESoch/nematode-earth)
+
+## The Lobster Ledger
+
+Put a lobster roll on a friendly bet and keep track of who owes lunch. Both bettors confirm the outcome and delivery in a self-hosted app built on Cloudflare Workers and D1.
+
+[Source code](https://github.com/ESoch/the-lobster-ledger)
